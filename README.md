@@ -1,6 +1,5 @@
 
-# Student Marks Calculator
-
+# Student Marks Calculator - Version 1
 A simple Python application to calculate student marks and grades.
 
 ## Features
