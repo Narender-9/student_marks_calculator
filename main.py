@@ -25,6 +25,7 @@ else:
     grade = "Pass"
 
 print("\n===== STUDENT RESULT =====")
+print("Student Report Generated Successfully")
 print("Roll Number:", roll_no)
 print("Student Name:", name)
 print("Total Marks:", total, "/ 500")
