@@ -9,8 +9,7 @@ for i in range(5):
     marks.append(mark)
 
 total = sum(marks)
-average = total / 5
-
+average = total / len(marks)
 if min(marks) < 35:
     grade = "Fail"
 elif average >= 90:
