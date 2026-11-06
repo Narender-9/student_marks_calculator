@@ -26,6 +26,9 @@ else:
 
 print("\n===== STUDENT RESULT =====")
 print("Student Report Generated Successfully")
+print("------------------------------")
+print("        STUDENT PROFILE")
+print("------------------------------")
 print("Roll Number:", roll_no)
 print("Student Name:", name)
 print("Total Marks:", total, "/ 500")
