@@ -21,8 +21,7 @@ elif average >= 70:
 elif average >= 60:
     grade = "C"
 else:
-    grade = "Pass"
-
+    grade = "D"
 print("\n===== STUDENT RESULT =====")
 print("Student Report Generated Successfully")
 print("------------------------------")
